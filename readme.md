@@ -6,7 +6,4 @@ I create easy, dependable, and user-friendly digital products that combine clean
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Malik-Haziq&theme=dark&hide_border=false)<br/>
 
----
 [![](https://visitcount.itsvg.in/api?id=Malik-Haziq&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
